@@ -168,3 +168,10 @@ body {
   .invisible {
     display: none;
   }
+
+  .footer {
+    position: absolute;
+    bottom: 0px;
+    font-size: small;
+    color:#0A3871;
+  }
